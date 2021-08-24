@@ -20,4 +20,4 @@ Developing it I could learn and train my **JavaScript**, **CSS** and **HTML** sk
   `Bonus Requirements:`
   - 10 - Make the board size to be chosen by the user.
   - 11 - Limit the minimum and maximum board size.
-  - 12 - FHave the colors in the palete be generated randomly when loading the page.
+  - 12 - Have the colors in the palete be generated randomly when loading the page.
